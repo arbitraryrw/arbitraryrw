@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-I'm Nikola, and I'm a security engineer. 
+I'm ArbitraryRW / Nik, and I'm a security engineer. I enjoy both building and breaking things.
 
-- 🔭 I’m currently working on a mobile security analysis tool 📱
+- 🌱 I'm currently learning <a href="https://golang.org/">Golang</a>
+- 🔭 I’m working on a mobile security analysis tool 📱
+- 📫 You can reach on Twitter <a href="https://twitter.com/ArbitraryRW">@ArbitraryRW</a>
+
 
 <!--
 **arbitraryrw/arbitraryrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
